@@ -1,0 +1,2 @@
+Hey am merging master with develop branch
+means the all changes to are ready to work
