@@ -1,3 +1,6 @@
 Problems During Project
 1.sql injection(user loging is occured without password).
 2.
+
+first change:-
+Hey i pulled this project from github and changing some code and again uploading to github to master branchc only
